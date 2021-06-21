@@ -2,6 +2,10 @@
 
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Bookify
+![Image 2](https://user-images.githubusercontent.com/57030901/122758964-0fbfac80-d2b7-11eb-80d3-8fb0404e3287.png)
+![Image 3](https://user-images.githubusercontent.com/57030901/122758980-164e2400-d2b7-11eb-9282-bb9e96b12e4b.png)
+
+
 A book review platform where we can explore, add , review and buy books!
 ## Team members
 1. Hibathulla Cm [https://github.com/Hibathulla]
